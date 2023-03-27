@@ -10,11 +10,11 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Kanasalu Nooru Baari",
+          name: "Kill This Love 💔",
           artist: "BlackPink",
           cover: "../img/1.jpg",
           source: "../mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=7XG6XuPz-jc",
+          url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
           favorited: false
         },
         {
