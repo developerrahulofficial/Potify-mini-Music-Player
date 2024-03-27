@@ -1,5 +1,5 @@
 body {
-  background: #dfe7ef;
+  background: #2e3236;
   font-family: "Bitter", serif;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 .player {
-  background: #eef3f7;
+  background: #7195b3;
   width: 410px;
   min-height: 480px;
   box-shadow: 0px 15px 35px -5px rgba(50, 88, 130, 0.32);
@@ -146,7 +146,7 @@ body {
   font-size: 30px;
   padding: 5px;
   margin-bottom: 10px;
-  color: #acb8cc;
+  color: #16181c;
   cursor: pointer;
   width: 50px;
   height: 50px;
@@ -160,7 +160,7 @@ body {
     font-size: 26px;
     padding: 5px;
     margin-right: 10px;
-    color: #acb8cc;
+    color: #181c23;
     cursor: pointer;
     width: 40px;
     height: 40px;
@@ -244,7 +244,7 @@ body {
   justify-content: space-between;
 }
 .progress__duration {
-  color: #71829e;
+  color: #111214;
   font-weight: 700;
   font-size: 20px;
   opacity: 0.5;
@@ -261,7 +261,7 @@ body {
   height: 6px;
   width: 100%;
   cursor: pointer;
-  background-color: #d0d8e6;
+  background-color: #191c21;
   display: inline-block;
   border-radius: 10px;
 }
@@ -269,12 +269,12 @@ body {
 .progress__current {
   height: inherit;
   width: 0%;
-  background-color: #a3b3ce;
+  background-color: #d9e0ec;
   border-radius: 10px;
 }
 
 .album-info {
-  color: #71829e;
+  color: #101112;
   flex: 1;
   padding-right: 60px;
   user-select: none;
